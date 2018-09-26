@@ -1,0 +1,10 @@
+C:\Users\Wikuś\source\repos\losowa gra\losowa gra\bin\Debug\losowa gra.exe.config
+C:\Users\Wikuś\source\repos\losowa gra\losowa gra\bin\Debug\losowa gra.exe
+C:\Users\Wikuś\source\repos\losowa gra\losowa gra\bin\Debug\losowa gra.pdb
+C:\Users\Wikuś\source\repos\losowa gra\losowa gra\obj\Debug\losowa gra.csprojAssemblyReference.cache
+C:\Users\Wikuś\source\repos\losowa gra\losowa gra\obj\Debug\losowa_gra.Form1.resources
+C:\Users\Wikuś\source\repos\losowa gra\losowa gra\obj\Debug\losowa_gra.Properties.Resources.resources
+C:\Users\Wikuś\source\repos\losowa gra\losowa gra\obj\Debug\losowa gra.csproj.GenerateResource.cache
+C:\Users\Wikuś\source\repos\losowa gra\losowa gra\obj\Debug\losowa gra.csproj.CoreCompileInputs.cache
+C:\Users\Wikuś\source\repos\losowa gra\losowa gra\obj\Debug\losowa gra.exe
+C:\Users\Wikuś\source\repos\losowa gra\losowa gra\obj\Debug\losowa gra.pdb
